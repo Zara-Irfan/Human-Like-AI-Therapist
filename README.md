@@ -1,5 +1,5 @@
 # Human-Like Therapist AI (Non-Clinical)
-# Overview
+ Overview
 
 The Human-Like Therapist AI is a conversational agent designed to provide supportive, empathetic, and human-like interactions for users seeking emotional support. It is non-clinical and does not replace licensed therapists. The agent focuses on:
 
